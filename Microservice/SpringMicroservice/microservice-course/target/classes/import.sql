@@ -1,0 +1,5 @@
+INSERT INTO courses (name, teacher) VALUES ('matematicas','Profesor A')
+INSERT INTO courses (name, teacher) VALUES ('Ciencias','Profesor B')
+INSERT INTO courses (name, teacher) VALUES ('fisica','Profesor C')
+INSERT INTO courses (name, teacher) VALUES ('Literatura','Profesor D')
+INSERT INTO courses (name, teacher) VALUES ('Educacion Fisica','Profesor E')

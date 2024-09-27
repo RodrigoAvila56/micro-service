@@ -1,0 +1,5 @@
+INSERT INTO students (name, last_name, email, course_id) VALUES ('Diago','Avila','diagoavila@gmail.com',1)
+INSERT INTO students (name, last_name, email, course_id) VALUES ('Camila','Avila','camilaavila@gmail.com',2)
+INSERT INTO students (name, last_name, email, course_id) VALUES ('Sofia','Avila','sofiaavila@gmail.com',3)
+INSERT INTO students (name, last_name, email, course_id) VALUES ('fabricio','Avila','fabricioavila@gmail.com',4)
+INSERT INTO students (name, last_name, email, course_id) VALUES ('Elsa','Uliambre','elsauliambre@gmail.com',5)
