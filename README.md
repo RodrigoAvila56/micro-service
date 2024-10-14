@@ -1,17 +1,47 @@
-🖥️ Proyecto de Microservicios con Spring Boot
-Descripción
-Este proyecto implementa una arquitectura basada en microservicios utilizando Spring Boot. La aplicación consta de varios servicios distribuidos, cada uno con una función específica, y están integrados a través de un API Gateway. Además, se incluye un Config Server para la gestión centralizada de configuraciones y un Eureka Server para la gestión de descubrimiento de servicios.
+<a name="readme-top"></a>
 
-Arquitectura de la Aplicación
-API Gateway: Punto de entrada principal que enruta las solicitudes a los microservicios correspondientes.
-Microservicio de Estudiantes: Gestiona la información de los estudiantes, interactuando con una base de datos MySQL.
-Microservicio de Cursos: Maneja la información de los cursos, utilizando una base de datos PostgreSQL.
-Config Server: Centraliza las configuraciones de todos los microservicios.
-Eureka Server: Se utiliza para el descubrimiento de servicios y balanceo de carga entre los microservicios.
-Tecnologías Utilizadas
-Lenguaje: Java
-Frameworks: Spring Boot, Spring Cloud (Eureka, Config Server)
-Base de Datos:
-Microservicio de Estudiantes: MySQL
-Microservicio de Cursos: PostgreSQL
-Otros: API Gateway, Eureka Server, Config Server, Docker
+#🖥️ Proyecto de Microservicios con Spring Boot
+
+> Este proyecto implementa una arquitectura basada en microservicios utilizando Spring Boot. La aplicación consta de varios servicios distribuidos, cada uno con una función específica, y están integrados a través de un API Gateway. Además, se incluye un Config Server para la gestión centralizada de configuraciones y un Eureka Server para la gestión de descubrimiento de servicios.
+
+## Built With
+
+- Java
+- Frameworks: Spring Boot, Spring Cloud (Eureka, Config Server)
+- Base de Datos:
+- Microservicio de Estudiantes: MySQL
+- Microservicio de Cursos: PostgreSQL
+- Otros: API Gateway, Eureka Server, Config Server
+
+
+### Prerequisites
+
+--Node 
+--Npm 
+--Composer 
+--Text editor (VsCode)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage
+
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub:https://github.com/RodrigoAvila56
+- LinkedIn:https://www.linkedin.com/in/rodrigo-avila-76068729a/
+
+## 🤝 Contributing
+
+¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes sugerencias, siéntete libre de abrir un issue o enviar un pull request.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
