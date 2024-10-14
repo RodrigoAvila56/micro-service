@@ -13,22 +13,6 @@
 - Microservicio de Cursos: PostgreSQL
 - Otros: API Gateway, Eureka Server, Config Server
 
-
-### Prerequisites
-
---Node 
---Npm 
---Composer 
---Text editor (VsCode)
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Usage
-
-
-
 ## Authors
 
 👤 **Author1**
